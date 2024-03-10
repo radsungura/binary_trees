@@ -16,3 +16,4 @@
 13. Nodes
 14. Balance factor
 15. Is full
+16. Is perfect
