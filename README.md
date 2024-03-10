@@ -17,3 +17,4 @@
 14. Balance factor
 15. Is full
 16. Is perfect
+17. Sibling
